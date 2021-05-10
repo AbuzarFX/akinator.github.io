@@ -98,6 +98,15 @@ dasdasdasdasd
     line-height: 70px !important;
 }
 
+.features .discord-lang {
+    border-radius: 3%;
+}
+
+.features .discord-sound {
+    border-radius: 3%;
+}
+
+
 .features .subtitle {
     font-size: 20px !important;
     color: #a2a8bd;
@@ -203,6 +212,7 @@ color: rgba(255, 255, 255, 0.46) !important
     letter-spacing: 0.15em !important;
     font-variant: small-caps !important;
 }
+
 
 .footer .nouridio a {
     color: #AD91FF !important;
