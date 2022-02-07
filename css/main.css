@@ -24,7 +24,7 @@ body {
 }
 
 .navbar-toggler-icon {
-    color: #fff !important
+    color: rgb(0, 0, 0) !important
 }
 
 .btn {
@@ -35,15 +35,15 @@ body {
 }
 
 .btn-primary {
-    background-color: goldenrod !important
+    background-color: rgb(250, 197, 65) !important
 }
 .btn-secondary {
-    background-color: goldenrod !important
+    background-color: rgb(250, 197, 65) !important
 }
 .heading {
     padding: 160px 50px !important;
-    color: #fff !important;
-    background-image: url("https://svgshare.com/i/U1U.svg") !important;
+    color:  #fff !important;
+    background-image: url("https://svgshare.com/i/e3D.svg") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
@@ -51,7 +51,7 @@ body {
 
 .main-logo {
     border-radius: 50% !important;
-  border: 2.5px solid goldenrod;
+  border: 2.5px solid rgb(250, 197, 65);
   animation: float 4s ease-in-out infinite;
 }
 
@@ -86,7 +86,7 @@ body {
 
 .features {
     text-align: center !important;
-    background: goldenrod !important;
+    background: rgb(250, 197, 65) !important;
     padding: 60px 50px !important
 }
 .features .title {
@@ -97,7 +97,7 @@ body {
 
 .features .subtitle {
     font-size: 20px !important;
-    color: goldenrod;
+    color: rgb(250, 197, 65);
 }
 
 .cards {
@@ -112,7 +112,7 @@ body {
 .card-title {
     font-size: 28px !important;
     font-weight: 600 !important;
-    color: goldenrod !important;
+    color: rgb(250, 197, 65) !important;
 }
 
 
@@ -137,12 +137,12 @@ body {
 .card.statistic {
     background: transparent !important;
     box-shadow: none !important;
-    color: #f7f7f7 !important;
+    color: #ffffff !important;
 }
 
 .start {
     text-align: center !important;
-    background: goldenrod !important;
+    background: rgb(250, 197, 65) !important;
     padding: 60px 50px !important
 }
 
@@ -165,7 +165,7 @@ body {
 }
 
 .footer a {
-    color: goldenrod !important;
+    color: rgb(250, 197, 65) !important;
     text-decoration: none !important;
     font-weight: bold !important;
 }
